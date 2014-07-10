@@ -93,7 +93,7 @@ class Committee
       :can_play => _listRoles,
       :rating => _countPlay,
       :time => @time,
-      :goodRole => @good_role#_goodRole
+      :goodRole => @good_role
       }
             
     #result rating avg       
